@@ -1,1 +1,1 @@
-# Number-Guessing-Nmae
+# Number-Guessing-Game
